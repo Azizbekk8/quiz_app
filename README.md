@@ -1,16 +1,4 @@
 # quiz_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Das ist schon bischen schwierige Projekt mit logische Coden. Quiz app über meinem Heimatland Kirgisistan. Es gibt 8 Fragen. Wenn du richtig antwortest, dann bekommst du Icon mit Richtige Zeichen.
+Wie dieses Projekt als Bild aussieht, sie können in der Datei "UI quiz_app.png" sehen.
